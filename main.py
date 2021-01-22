@@ -1,1 +1,1 @@
-print('::set-output name=release_name::strawberry')
+print('::set-output name=release_name::This is a sentence with spaces!')
